@@ -4,6 +4,9 @@ Attrition is an inevitable part of any business. There will come a time when an 
 
 Objective of the project:
 •	The broad goal is seeking to understand the factors that impact attrition among IBM employees. 
+
 •	The goal is to critically examine the variables that significantly impact an employee’s likelihood 
+
 •	of attrition. An investigation into how distance from home, net income, age, environment among 
+
 •	others impact an employee’s attrition. This paper will probe for specific answers to the following 
